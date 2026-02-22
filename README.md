@@ -1,1 +1,1 @@
-# Skillrack-ractices
+# Skillrack-practices

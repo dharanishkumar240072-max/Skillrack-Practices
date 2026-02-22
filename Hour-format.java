@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Hello {
+public class Hour-format {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String time = sc.next();
